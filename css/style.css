@@ -98,6 +98,11 @@ a {
     border-top: 3px solid black;
 }
 
+#schedule_table {
+    display: block;
+    overflow-x: auto;
+}
+
 #schedule_table td,
 #schedule_table th {
     border-width: 3px;
